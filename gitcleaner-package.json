@@ -1,0 +1,41 @@
+{
+  "name": "gitcleaner",
+  "version": "1.0.0",
+  "description": "A command-line tool to clean junk files and folders from your projects",
+  "main": "index.js",
+  "bin": {
+    "gitcleaner": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "clean",
+    "junk",
+    "files",
+    "cleanup",
+    "git",
+    "node_modules",
+    "build"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "fast-glob": "^3.3.2",
+    "fs-extra": "^11.1.1",
+    "pretty-bytes": "^6.1.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/gitcleaner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/gitcleaner/issues"
+  },
+  "homepage": "https://github.com/yourusername/gitcleaner#readme"
+}
