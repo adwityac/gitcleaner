@@ -1,7 +1,8 @@
 # 🧹 GitCleaner
-
+<p align="center">
 A powerful command-line tool to find and clean junk files and folders from your development projects.  
 Keep your repositories clean and save disk space effortlessly!
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-18%2B-brightgreen?logo=node.js" />
@@ -204,3 +205,4 @@ MIT License - see the LICENSE file for details.
 - Dry run option
 
 - Pretty file size formatting
+
